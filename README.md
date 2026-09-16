@@ -12,7 +12,12 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=prbharti25&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" />
+<td width="45%" align="center">
+<img
+  src="https://raw.githubusercontent.com/prbharti25/prbharti25/main/assets/developer.png"
+  width="400"
+/>
+</td>
 
 </div>
 
