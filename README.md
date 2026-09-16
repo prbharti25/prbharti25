@@ -4,7 +4,7 @@
 
 # 👋 Hey there! I'm Pushp Raj Bharti
 
-### Full-Stack Developer | CSE Student | AI/ML Enthusiast
+### Full-Stack Developer | CSE Student | MERN Stack | DSA Enthusiast | GenAI | Forward Deployed Engineer
 
 <p>
   <i>Building things, breaking things, fixing things — one commit at a time.</i>
