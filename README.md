@@ -14,7 +14,7 @@
 
 <td width="45%" align="center">
 <img
-  src="https://raw.githubusercontent.com/prbharti25/prbharti25/main/assets/developer.png"
+  src="https://raw.githubusercontent.com/prbharti25/main/assets/developer.png"
   width="400"
 />
 </td>
